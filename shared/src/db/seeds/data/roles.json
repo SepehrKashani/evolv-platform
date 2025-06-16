@@ -1,0 +1,4 @@
+[
+  { "title": "Admin", "key": "admin" },
+  { "title": "User", "key": "user" }
+]
